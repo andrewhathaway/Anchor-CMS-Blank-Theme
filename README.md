@@ -5,4 +5,4 @@ Blank anchor theme ready to start work on. Copy in to the themes directory, chan
 
 Original code from the Default theme by [Visual Idiot](http://visualidiot.com).
 
-[@andrewhathaway](http://andrewhathaway.net)
+[@andrewhathaway](http://twitter.com/andrewhathaway)
