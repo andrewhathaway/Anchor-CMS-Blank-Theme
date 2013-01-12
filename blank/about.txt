@@ -1,0 +1,4 @@
+Theme name:    Blank
+Description:   This is a blank theme, for Anchor CMS. The default theme by Visual Idiot cleaned up.
+Author name:   Andrew Hathaway
+Author site:   http://andrewhathaway.net
